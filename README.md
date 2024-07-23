@@ -1,4 +1,4 @@
-# ATS1
+# ATS (Attendance Tracking System)
 This is an app that will help in marking attendance, This was built with Android Studio using Java, Xml and SQLite.
 # Android-Attendance-App
 
@@ -43,4 +43,18 @@ class then register the number of subjects in that class and can mark the attend
 </ul>
 &nbsp;
 <h3>Installation :</h3>
-
+<h4>Method 1</h4>
+<ul>
+ <li>Copy the link of the github file "https://github.com/shakthi-25/ATS1.git"</li>
+ <li>Open Android Studio</li>
+ <li>File -> New -> Project from Version Control </li>
+ <li> Select the Github and login using your account and paste the copied link</li>
+ <li>Click on Clone</li>
+</ul>
+<h4>Method 2</h4>
+<ul>
+ <li>Download Zip File </li>
+ <li>Unzip the downloaded file</li>
+ <li>Open Android Studio</li>
+ <li>Selct File -> Open -> Select the unziped file</li>
+</ul>
